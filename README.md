@@ -1,5 +1,5 @@
 # SPRING_TODO
-[5:12 PM] Yenugula Sravani
+
 <h2>Details of TodoSpringboot</h2>
 
 1.I have created rest api called todospringboot
